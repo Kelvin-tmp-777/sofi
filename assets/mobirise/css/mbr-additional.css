@@ -672,7 +672,7 @@ a {
 .cid-sje8w1qMRd {
   padding-top: 15rem;
   padding-bottom: 15rem;
-  background-image: url("../../../assets/images/features2.jpg");
+  background-image: url("../../../assets/images/img-20231012-182447-2000x3552.jpeg");
 }
 .cid-sje8w1qMRd .link-wrapper {
   width: 100%;
@@ -1373,6 +1373,9 @@ a {
 .cid-tT9EKCayzl .navbar-dropdown {
   position: relative !important;
 }
+.cid-tT9EKCayzl .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-tT9EKCayzl .navbar.collapsed ul.navbar-nav li {
   margin: 0;
   width: fit-content;
@@ -1465,7 +1468,7 @@ a {
 }
 .cid-tT9EKCayzl .dropdown-menu,
 .cid-tT9EKCayzl .navbar.opened {
-  background: #98dee8 !important;
+  background: #f0ccba !important;
   min-height: 100%;
 }
 .cid-tT9EKCayzl .nav-item:focus,
@@ -1500,8 +1503,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #98dee8;
+  background: rgba(240, 204, 186, 0);
 }
 .cid-tT9EKCayzl .navbar.opened {
   transition: all 0.3s;
@@ -1629,7 +1631,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tT9EKCayzl .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #98dee8;
+  background: #f0ccba;
 }
 .cid-tT9EKCayzl .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1729,6 +1731,9 @@ a {
 .cid-tT9EKCayzl .navbar-dropdown {
   position: relative !important;
 }
+.cid-tT9EKCayzl .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-tT9EKCayzl .navbar.collapsed ul.navbar-nav li {
   margin: 0;
   width: fit-content;
@@ -1821,7 +1826,7 @@ a {
 }
 .cid-tT9EKCayzl .dropdown-menu,
 .cid-tT9EKCayzl .navbar.opened {
-  background: #98dee8 !important;
+  background: #f0ccba !important;
   min-height: 100%;
 }
 .cid-tT9EKCayzl .nav-item:focus,
@@ -1856,8 +1861,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #98dee8;
+  background: rgba(240, 204, 186, 0);
 }
 .cid-tT9EKCayzl .navbar.opened {
   transition: all 0.3s;
@@ -1985,7 +1989,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tT9EKCayzl .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #98dee8;
+  background: #f0ccba;
 }
 .cid-tT9EKCayzl .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
